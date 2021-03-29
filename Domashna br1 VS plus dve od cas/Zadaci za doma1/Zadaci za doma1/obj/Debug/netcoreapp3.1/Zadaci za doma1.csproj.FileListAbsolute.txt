@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.exe
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.deps.json
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.runtimeconfig.json
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.dll
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\bin\Debug\netcoreapp3.1\Zadaci za doma1.pdb
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.dll
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.pdb
+C:\Users\Asus\Desktop\Domashna br1 VS plus dve od cas\Zadaci za doma1\Zadaci za doma1\obj\Debug\netcoreapp3.1\Zadaci za doma1.genruntimeconfig.cache
