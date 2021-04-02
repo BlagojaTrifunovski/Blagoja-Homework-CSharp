@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.exe
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.deps.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\bin\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Zadaci za doma1\obj\Debug\netcoreapp3.1\SumOfEven.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.exe
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.deps.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.runtimeconfig.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\bin\Debug\netcoreapp3.1\Sum of values.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Sum of values\obj\Debug\netcoreapp3.1\Sum of values.genruntimeconfig.cache

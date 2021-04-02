@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.exe
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.deps.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.runtimeconfig.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\bin\Debug\netcoreapp3.1\Print Names.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.dll
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.pdb
+C:\Users\Asus\Desktop\Zadaci za doma 3\Print Names\obj\Debug\netcoreapp3.1\Print Names.genruntimeconfig.cache
