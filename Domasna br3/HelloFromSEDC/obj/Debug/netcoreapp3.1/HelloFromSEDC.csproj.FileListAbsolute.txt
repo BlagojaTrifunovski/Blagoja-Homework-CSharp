@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.exe
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.deps.json
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.runtimeconfig.json
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.dll
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\bin\Debug\netcoreapp3.1\HelloFromSEDC.pdb
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.dll
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.pdb
+C:\Users\Asus\Desktop\Domasna br3\HelloFromSEDC\obj\Debug\netcoreapp3.1\HelloFromSEDC.genruntimeconfig.cache

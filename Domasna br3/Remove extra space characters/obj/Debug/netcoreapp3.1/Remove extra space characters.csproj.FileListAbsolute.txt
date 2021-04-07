@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.exe
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.deps.json
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.runtimeconfig.json
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.dll
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\bin\Debug\netcoreapp3.1\Remove extra space characters.pdb
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.dll
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.pdb
+C:\Users\Asus\Desktop\Domasna br3\Remove extra space characters\obj\Debug\netcoreapp3.1\Remove extra space characters.genruntimeconfig.cache
